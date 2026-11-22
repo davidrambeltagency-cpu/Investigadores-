@@ -8,6 +8,8 @@ Tres entregables conectados:
 2. Qué referencias de video adaptar.
 3. Qué mensajes grabar, y exactamente qué tomas.
 
+**Página de revisión navegable** (privada; compártela desde su menú *Share*): https://claude.ai/artifact/8vTrtQxpueQGzZrK1UgLx1
+
 ## Entrega, en el orden solicitado
 
 | # | Documento | Qué contiene |
